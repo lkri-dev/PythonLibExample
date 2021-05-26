@@ -1,0 +1,11 @@
+ip_address;machine_name;status;NIC_offset
+220.45.0.13;machine1;Unallocated;1
+220.45.0.14;machine2;Unallocated;2
+220.45.0.15;machine3;Unallocated;3
+220.45.0.16;machine4;Unallocated;4
+220.45.0.17;machine5;Unallocated;5
+220.45.0.18;machine6;Unallocated;6
+220.45.0.19;machine7;Unallocated;7
+220.45.0.20;machine8;Unallocated;8
+220.45.0.21;machine9;Unallocated;9
+220.45.0.22;machine10;Unallocated;10
